@@ -1,0 +1,2 @@
+1.gcc -c *.c
+2.gcc -o main *.o -lm -lstdc++
